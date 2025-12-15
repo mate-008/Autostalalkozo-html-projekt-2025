@@ -206,7 +206,7 @@ footer {
   background-color: #ffcc00;
   display: flex;
   justify-content: center;
-  align-items: center; /* szöveg középen függőlegesen is */
+  align-items: center; 
   font-weight: 700;
   color: #111;
 }
